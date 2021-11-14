@@ -1,0 +1,1 @@
+worker: python kline_test.py
